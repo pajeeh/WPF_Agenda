@@ -1,0 +1,17 @@
+C:\Users\csaber\source\repos\WPF_Agenda\obj\Debug\WPF_Agenda.csproj.AssemblyReference.cache
+C:\Users\csaber\source\repos\WPF_Agenda\obj\Debug\MainWindow.g.cs
+C:\Users\csaber\source\repos\WPF_Agenda\obj\Debug\App.g.cs
+C:\Users\csaber\source\repos\WPF_Agenda\obj\Debug\WPF_Agenda_MarkupCompile.cache
+C:\Users\csaber\source\repos\WPF_Agenda\obj\Debug\WPF_Agenda_MarkupCompile.lref
+C:\Users\csaber\source\repos\WPF_Agenda\bin\Debug\WPF_Agenda.exe.config
+C:\Users\csaber\source\repos\WPF_Agenda\bin\Debug\WPF_Agenda.exe
+C:\Users\csaber\source\repos\WPF_Agenda\bin\Debug\WPF_Agenda.pdb
+C:\Users\csaber\source\repos\WPF_Agenda\obj\Debug\MainWindow.baml
+C:\Users\csaber\source\repos\WPF_Agenda\obj\Debug\WPF_Agenda.g.resources
+C:\Users\csaber\source\repos\WPF_Agenda\obj\Debug\WPF_Agenda.Properties.Resources.resources
+C:\Users\csaber\source\repos\WPF_Agenda\obj\Debug\WPF_Agenda.csproj.GenerateResource.cache
+C:\Users\csaber\source\repos\WPF_Agenda\obj\Debug\WPF_Agenda.csproj.CoreCompileInputs.cache
+C:\Users\csaber\source\repos\WPF_Agenda\obj\Debug\WPF_Agenda.exe
+C:\Users\csaber\source\repos\WPF_Agenda\obj\Debug\WPF_Agenda.pdb
+C:\Users\csaber\source\repos\WPF_Agenda\obj\Debug\ContatosPage.g.cs
+C:\Users\csaber\source\repos\WPF_Agenda\obj\Debug\ContatosPage.baml
